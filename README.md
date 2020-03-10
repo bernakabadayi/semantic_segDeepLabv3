@@ -13,6 +13,7 @@ The detailed review can be found here [Review: DeepLabv3](https://towardsdatasci
 MSRC-v2 Segmentation Dataset which includes 23 object classes.
 
 ## Sample Outputs
+RGB Image | Target Semantic Segmentation | Predicted Semantic Segmentation
 
 ![Image](out/50_img.png "Title")
 ![Target image](out/50_target.png)
