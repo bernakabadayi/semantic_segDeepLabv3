@@ -12,6 +12,23 @@ The detailed review can be found here [Review: DeepLabv3](https://towardsdatasci
 
 MSRC-v2 Segmentation Dataset which includes 23 object classes.
 
-## Output
+## Sample Outputs
+
+![Image](out/50_img.png "Title")
+![Target image](out/50_target.png)
+![Predicted image](out/50_pred.png)
+
+![Image](out/60_img.png)
+![Target image](out/60_target.png)
+![Predicted image](out/60_pred.png)
+
+![Image](out/100_img.png)
+![Target image](out/100_target.png)
+![Predicted image](out/100_pred.png)
+
+![Image](out/212_img.png)
+![Target image](out/212_target.png)
+![Predicted image](out/212_pred.png)
+
 
 Test accuracy with just 10 epocs is 0.9068867952770199
